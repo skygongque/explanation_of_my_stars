@@ -1,4 +1,4 @@
-# notebook
+#一些官网
 现在使用的ssr客户端下载：shadowsocksrr / shadowsocksr-csharp
 
 搭建教程：sirzdy/shadowsocks
