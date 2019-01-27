@@ -4,6 +4,9 @@
 
 [v2rayN的开源地址](https://github.com/2dust/v2rayN)
 
+[xx-net的开源地址](https://github.com/XX-net/XX-Net)
+
+
     
     现在使用的ssr客户端下载：shadowsocksrr / shadowsocksr-csharp
 
