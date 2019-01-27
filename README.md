@@ -6,12 +6,10 @@
 
 [xx-net的开源地址](https://github.com/XX-net/XX-Net)
 
+[ssr客户端](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)
 
-    
-    现在使用的ssr客户端下载：shadowsocksrr / shadowsocksr-csharp
+[SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)
 
-    搭建教程：sirzdy/shadowsocks
+[google/bbr](https://github.com/google/bbr)
 
-    音乐助手：Qrilee / MusicUU
 
-    ubuntu用户助手：UbuntuBar / userguide
