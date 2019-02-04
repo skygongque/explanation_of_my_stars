@@ -2,6 +2,8 @@
 ====
 [v2ray官网](https://www.v2ray.com/)
 
+[v2ray官方开源的release](https://github.com/v2ray/v2ray-core/releases)
+
 [v2rayN的开源地址](https://github.com/2dust/v2rayN)
 
 [xx-net的开源地址](https://github.com/XX-net/XX-Net)
