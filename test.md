@@ -28,6 +28,9 @@ explanation_of_my_stars/test.md
 ###### 六级标题
 
 Thank `You` . Please `Call` Me `Coder`
-<table style="border:2px dotted gray;"><tr><td>
+<table ><tr><td>
 aaa
-</td></dr></table>
+</td></dr><td>
+bbbbbb
+</td>
+</table>
