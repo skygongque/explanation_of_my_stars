@@ -30,6 +30,11 @@
 
 [Tesseract OCR(光学识别的库)](https://github.com/tesseract-ocr/tesseract)
 
+03.好用软件的开源地址
+====
+[ScreenToGif](https://github.com/NickeManarin/ScreenToGif/releases)
+
+
 
 
 
