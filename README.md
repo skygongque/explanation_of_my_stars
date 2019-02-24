@@ -26,6 +26,8 @@
 
 [jhao104代理池](https://github.com/jhao104/proxy_pool)
 
+[Awesome Captcha (验证码相关)]（https://github.com/ZYSzys/awesome-captcha/blob/master/README-zh.md）
+
 
 
 
