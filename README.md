@@ -16,7 +16,7 @@
 
 [google/bbr](https://github.com/google/bbr)
 
-[MTproxy](https://github.com/TelegramMessenger/MTProxy/)
+[MTproxy(telegram代理)](https://github.com/TelegramMessenger/MTProxy/)
 
 02.python3.X相关
 ====
