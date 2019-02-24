@@ -28,6 +28,7 @@
 
 [Awesome Captcha (验证码相关)](https://github.com/ZYSzys/awesome-captcha/blob/master/README-zh.md)
 
+[Tesseract OCR(光学识别的库)](https://github.com/tesseract-ocr/tesseract)
 
 
 
