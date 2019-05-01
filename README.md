@@ -32,9 +32,9 @@
 
 03.好用软件的开源地址
 ====
-[ScreenToGif](https://github.com/NickeManarin/ScreenToGif/releases)
+[ScreenToGif(录制屏幕为gif)](https://github.com/NickeManarin/ScreenToGif/releases)
 
-[you-get](https://github.com/soimort/you-get)
+[you-get（python写的命令行下载器）](https://github.com/soimort/you-get)
 
 
 
