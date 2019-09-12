@@ -46,3 +46,14 @@ rrrrrrrrrrr</td></dr><td>bbbbbb</td>
 |   DNS   | [pandaDNS]<br>[puredns]<br>HelloDNS |iiiiii|
 |   abc   | def|iiiiiiihhhh|
 
+
+|Author Name|Title|
+| A. J.Hartley|Act of Will|
+| A. J.Hartley|Will Power|
+| A. J.Jacobs|The Year of Living Biblically: One Man's Humble Quest to Follow the Bible as Literally as Possible|
+| A. LeeMartinez|A Nameless Witch|
+| A. ManetteAnsay|Good Things I Wish You|
+| A. N. & RiceRoquelaure|Beauty's Punishment|
+| A. N. & RiceRoquelaure|Beauty's Release|
+| AceAtkins|Devil's Garden|
+| AceAtkins|Infamous|
