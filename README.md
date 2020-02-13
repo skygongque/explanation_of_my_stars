@@ -24,6 +24,10 @@
 
 [MaLei666爬虫合集2](https://github.com/MaLei666/Spider)
 
+[wkunzhi爬虫合集3(含逆向)](https://github.com/wkunzhi/Python3-Spider)
+
+[CharlesPikachu DecryptLogin 模拟登录合集](https://github.com/CharlesPikachu/DecryptLogin)
+
 [jhao104代理池](https://github.com/jhao104/proxy_pool)
 
 [Awesome Captcha (验证码相关)](https://github.com/ZYSzys/awesome-captcha/blob/master/README-zh.md)
