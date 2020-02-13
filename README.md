@@ -30,6 +30,8 @@
 
 [jhao104代理池](https://github.com/jhao104/proxy_pool)
 
+[wkunzhi爬虫工具 含验证码识别（微博，腾讯，12306）](https://github.com/wkunzhi/Spider-Tools)
+
 [Awesome Captcha (验证码相关)](https://github.com/ZYSzys/awesome-captcha/blob/master/README-zh.md)
 
 [Tesseract OCR(光学识别的库)](https://github.com/tesseract-ocr/tesseract)
