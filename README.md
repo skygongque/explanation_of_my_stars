@@ -48,7 +48,7 @@
 
 [ffmpeg(视频处理相关)](https://ffmpeg.org/)
 
-[music-dl(phton写的命令行音乐下载器)](https://github.com/0xHJK/music-dl)
+[music-dl(python写的命令行音乐下载器)](https://github.com/0xHJK/music-dl)
 
 
 
